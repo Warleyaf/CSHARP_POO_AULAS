@@ -1,0 +1,15 @@
+C:\Users\warle\Documents\C#_POO\Secao04\Aula38_problema_sem_poo\Aula38_problema_sem_poo\bin\Debug\net6.0\Aula38_problema_sem_poo.exe
+C:\Users\warle\Documents\C#_POO\Secao04\Aula38_problema_sem_poo\Aula38_problema_sem_poo\bin\Debug\net6.0\Aula38_problema_sem_poo.deps.json
+C:\Users\warle\Documents\C#_POO\Secao04\Aula38_problema_sem_poo\Aula38_problema_sem_poo\bin\Debug\net6.0\Aula38_problema_sem_poo.runtimeconfig.json
+C:\Users\warle\Documents\C#_POO\Secao04\Aula38_problema_sem_poo\Aula38_problema_sem_poo\bin\Debug\net6.0\Aula38_problema_sem_poo.dll
+C:\Users\warle\Documents\C#_POO\Secao04\Aula38_problema_sem_poo\Aula38_problema_sem_poo\bin\Debug\net6.0\Aula38_problema_sem_poo.pdb
+C:\Users\warle\Documents\C#_POO\Secao04\Aula38_problema_sem_poo\Aula38_problema_sem_poo\obj\Debug\net6.0\Aula38_problema_sem_poo.csproj.AssemblyReference.cache
+C:\Users\warle\Documents\C#_POO\Secao04\Aula38_problema_sem_poo\Aula38_problema_sem_poo\obj\Debug\net6.0\Aula38_problema_sem_poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warle\Documents\C#_POO\Secao04\Aula38_problema_sem_poo\Aula38_problema_sem_poo\obj\Debug\net6.0\Aula38_problema_sem_poo.AssemblyInfoInputs.cache
+C:\Users\warle\Documents\C#_POO\Secao04\Aula38_problema_sem_poo\Aula38_problema_sem_poo\obj\Debug\net6.0\Aula38_problema_sem_poo.AssemblyInfo.cs
+C:\Users\warle\Documents\C#_POO\Secao04\Aula38_problema_sem_poo\Aula38_problema_sem_poo\obj\Debug\net6.0\Aula38_problema_sem_poo.csproj.CoreCompileInputs.cache
+C:\Users\warle\Documents\C#_POO\Secao04\Aula38_problema_sem_poo\Aula38_problema_sem_poo\obj\Debug\net6.0\Aula38_problema_sem_poo.dll
+C:\Users\warle\Documents\C#_POO\Secao04\Aula38_problema_sem_poo\Aula38_problema_sem_poo\obj\Debug\net6.0\refint\Aula38_problema_sem_poo.dll
+C:\Users\warle\Documents\C#_POO\Secao04\Aula38_problema_sem_poo\Aula38_problema_sem_poo\obj\Debug\net6.0\Aula38_problema_sem_poo.pdb
+C:\Users\warle\Documents\C#_POO\Secao04\Aula38_problema_sem_poo\Aula38_problema_sem_poo\obj\Debug\net6.0\Aula38_problema_sem_poo.genruntimeconfig.cache
+C:\Users\warle\Documents\C#_POO\Secao04\Aula38_problema_sem_poo\Aula38_problema_sem_poo\obj\Debug\net6.0\ref\Aula38_problema_sem_poo.dll

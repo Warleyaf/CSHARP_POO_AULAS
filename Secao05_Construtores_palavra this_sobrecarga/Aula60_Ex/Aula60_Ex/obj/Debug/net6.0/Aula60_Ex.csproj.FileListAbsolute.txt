@@ -1,0 +1,15 @@
+C:\Users\warle\Documents\C#_POO\Secao05_Construtores_palavra this_sobrecarga\Aula60_Ex\Aula60_Ex\bin\Debug\net6.0\Aula60_Ex.exe
+C:\Users\warle\Documents\C#_POO\Secao05_Construtores_palavra this_sobrecarga\Aula60_Ex\Aula60_Ex\bin\Debug\net6.0\Aula60_Ex.deps.json
+C:\Users\warle\Documents\C#_POO\Secao05_Construtores_palavra this_sobrecarga\Aula60_Ex\Aula60_Ex\bin\Debug\net6.0\Aula60_Ex.runtimeconfig.json
+C:\Users\warle\Documents\C#_POO\Secao05_Construtores_palavra this_sobrecarga\Aula60_Ex\Aula60_Ex\bin\Debug\net6.0\Aula60_Ex.dll
+C:\Users\warle\Documents\C#_POO\Secao05_Construtores_palavra this_sobrecarga\Aula60_Ex\Aula60_Ex\bin\Debug\net6.0\Aula60_Ex.pdb
+C:\Users\warle\Documents\C#_POO\Secao05_Construtores_palavra this_sobrecarga\Aula60_Ex\Aula60_Ex\obj\Debug\net6.0\Aula60_Ex.csproj.AssemblyReference.cache
+C:\Users\warle\Documents\C#_POO\Secao05_Construtores_palavra this_sobrecarga\Aula60_Ex\Aula60_Ex\obj\Debug\net6.0\Aula60_Ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warle\Documents\C#_POO\Secao05_Construtores_palavra this_sobrecarga\Aula60_Ex\Aula60_Ex\obj\Debug\net6.0\Aula60_Ex.AssemblyInfoInputs.cache
+C:\Users\warle\Documents\C#_POO\Secao05_Construtores_palavra this_sobrecarga\Aula60_Ex\Aula60_Ex\obj\Debug\net6.0\Aula60_Ex.AssemblyInfo.cs
+C:\Users\warle\Documents\C#_POO\Secao05_Construtores_palavra this_sobrecarga\Aula60_Ex\Aula60_Ex\obj\Debug\net6.0\Aula60_Ex.csproj.CoreCompileInputs.cache
+C:\Users\warle\Documents\C#_POO\Secao05_Construtores_palavra this_sobrecarga\Aula60_Ex\Aula60_Ex\obj\Debug\net6.0\Aula60_Ex.dll
+C:\Users\warle\Documents\C#_POO\Secao05_Construtores_palavra this_sobrecarga\Aula60_Ex\Aula60_Ex\obj\Debug\net6.0\refint\Aula60_Ex.dll
+C:\Users\warle\Documents\C#_POO\Secao05_Construtores_palavra this_sobrecarga\Aula60_Ex\Aula60_Ex\obj\Debug\net6.0\Aula60_Ex.pdb
+C:\Users\warle\Documents\C#_POO\Secao05_Construtores_palavra this_sobrecarga\Aula60_Ex\Aula60_Ex\obj\Debug\net6.0\Aula60_Ex.genruntimeconfig.cache
+C:\Users\warle\Documents\C#_POO\Secao05_Construtores_palavra this_sobrecarga\Aula60_Ex\Aula60_Ex\obj\Debug\net6.0\ref\Aula60_Ex.dll

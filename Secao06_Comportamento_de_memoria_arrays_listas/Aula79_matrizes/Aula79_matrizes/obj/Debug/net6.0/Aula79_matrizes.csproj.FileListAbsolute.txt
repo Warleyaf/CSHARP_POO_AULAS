@@ -1,0 +1,15 @@
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula79_matrizes\Aula79_matrizes\bin\Debug\net6.0\Aula79_matrizes.exe
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula79_matrizes\Aula79_matrizes\bin\Debug\net6.0\Aula79_matrizes.deps.json
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula79_matrizes\Aula79_matrizes\bin\Debug\net6.0\Aula79_matrizes.runtimeconfig.json
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula79_matrizes\Aula79_matrizes\bin\Debug\net6.0\Aula79_matrizes.dll
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula79_matrizes\Aula79_matrizes\bin\Debug\net6.0\Aula79_matrizes.pdb
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula79_matrizes\Aula79_matrizes\obj\Debug\net6.0\Aula79_matrizes.csproj.AssemblyReference.cache
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula79_matrizes\Aula79_matrizes\obj\Debug\net6.0\Aula79_matrizes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula79_matrizes\Aula79_matrizes\obj\Debug\net6.0\Aula79_matrizes.AssemblyInfoInputs.cache
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula79_matrizes\Aula79_matrizes\obj\Debug\net6.0\Aula79_matrizes.AssemblyInfo.cs
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula79_matrizes\Aula79_matrizes\obj\Debug\net6.0\Aula79_matrizes.csproj.CoreCompileInputs.cache
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula79_matrizes\Aula79_matrizes\obj\Debug\net6.0\Aula79_matrizes.dll
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula79_matrizes\Aula79_matrizes\obj\Debug\net6.0\refint\Aula79_matrizes.dll
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula79_matrizes\Aula79_matrizes\obj\Debug\net6.0\Aula79_matrizes.pdb
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula79_matrizes\Aula79_matrizes\obj\Debug\net6.0\Aula79_matrizes.genruntimeconfig.cache
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula79_matrizes\Aula79_matrizes\obj\Debug\net6.0\ref\Aula79_matrizes.dll

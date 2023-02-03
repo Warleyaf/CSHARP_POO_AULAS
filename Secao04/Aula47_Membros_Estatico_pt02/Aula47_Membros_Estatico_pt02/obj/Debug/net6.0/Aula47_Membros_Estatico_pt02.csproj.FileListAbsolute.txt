@@ -1,0 +1,15 @@
+C:\Users\warle\Documents\C#_POO\Secao04\Aula47_Membros_Estatico_pt02\Aula47_Membros_Estatico_pt02\bin\Debug\net6.0\Aula47_Membros_Estatico_pt02.exe
+C:\Users\warle\Documents\C#_POO\Secao04\Aula47_Membros_Estatico_pt02\Aula47_Membros_Estatico_pt02\bin\Debug\net6.0\Aula47_Membros_Estatico_pt02.deps.json
+C:\Users\warle\Documents\C#_POO\Secao04\Aula47_Membros_Estatico_pt02\Aula47_Membros_Estatico_pt02\bin\Debug\net6.0\Aula47_Membros_Estatico_pt02.runtimeconfig.json
+C:\Users\warle\Documents\C#_POO\Secao04\Aula47_Membros_Estatico_pt02\Aula47_Membros_Estatico_pt02\bin\Debug\net6.0\Aula47_Membros_Estatico_pt02.dll
+C:\Users\warle\Documents\C#_POO\Secao04\Aula47_Membros_Estatico_pt02\Aula47_Membros_Estatico_pt02\bin\Debug\net6.0\Aula47_Membros_Estatico_pt02.pdb
+C:\Users\warle\Documents\C#_POO\Secao04\Aula47_Membros_Estatico_pt02\Aula47_Membros_Estatico_pt02\obj\Debug\net6.0\Aula47_Membros_Estatico_pt02.csproj.AssemblyReference.cache
+C:\Users\warle\Documents\C#_POO\Secao04\Aula47_Membros_Estatico_pt02\Aula47_Membros_Estatico_pt02\obj\Debug\net6.0\Aula47_Membros_Estatico_pt02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warle\Documents\C#_POO\Secao04\Aula47_Membros_Estatico_pt02\Aula47_Membros_Estatico_pt02\obj\Debug\net6.0\Aula47_Membros_Estatico_pt02.AssemblyInfoInputs.cache
+C:\Users\warle\Documents\C#_POO\Secao04\Aula47_Membros_Estatico_pt02\Aula47_Membros_Estatico_pt02\obj\Debug\net6.0\Aula47_Membros_Estatico_pt02.AssemblyInfo.cs
+C:\Users\warle\Documents\C#_POO\Secao04\Aula47_Membros_Estatico_pt02\Aula47_Membros_Estatico_pt02\obj\Debug\net6.0\Aula47_Membros_Estatico_pt02.csproj.CoreCompileInputs.cache
+C:\Users\warle\Documents\C#_POO\Secao04\Aula47_Membros_Estatico_pt02\Aula47_Membros_Estatico_pt02\obj\Debug\net6.0\Aula47_Membros_Estatico_pt02.dll
+C:\Users\warle\Documents\C#_POO\Secao04\Aula47_Membros_Estatico_pt02\Aula47_Membros_Estatico_pt02\obj\Debug\net6.0\refint\Aula47_Membros_Estatico_pt02.dll
+C:\Users\warle\Documents\C#_POO\Secao04\Aula47_Membros_Estatico_pt02\Aula47_Membros_Estatico_pt02\obj\Debug\net6.0\Aula47_Membros_Estatico_pt02.pdb
+C:\Users\warle\Documents\C#_POO\Secao04\Aula47_Membros_Estatico_pt02\Aula47_Membros_Estatico_pt02\obj\Debug\net6.0\Aula47_Membros_Estatico_pt02.genruntimeconfig.cache
+C:\Users\warle\Documents\C#_POO\Secao04\Aula47_Membros_Estatico_pt02\Aula47_Membros_Estatico_pt02\obj\Debug\net6.0\ref\Aula47_Membros_Estatico_pt02.dll

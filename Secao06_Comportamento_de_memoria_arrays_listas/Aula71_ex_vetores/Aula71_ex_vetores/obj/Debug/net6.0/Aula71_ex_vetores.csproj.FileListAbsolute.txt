@@ -1,0 +1,15 @@
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula71_ex_vetores\Aula71_ex_vetores\bin\Debug\net6.0\Aula71_ex_vetores.exe
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula71_ex_vetores\Aula71_ex_vetores\bin\Debug\net6.0\Aula71_ex_vetores.deps.json
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula71_ex_vetores\Aula71_ex_vetores\bin\Debug\net6.0\Aula71_ex_vetores.runtimeconfig.json
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula71_ex_vetores\Aula71_ex_vetores\bin\Debug\net6.0\Aula71_ex_vetores.dll
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula71_ex_vetores\Aula71_ex_vetores\bin\Debug\net6.0\Aula71_ex_vetores.pdb
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula71_ex_vetores\Aula71_ex_vetores\obj\Debug\net6.0\Aula71_ex_vetores.csproj.AssemblyReference.cache
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula71_ex_vetores\Aula71_ex_vetores\obj\Debug\net6.0\Aula71_ex_vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula71_ex_vetores\Aula71_ex_vetores\obj\Debug\net6.0\Aula71_ex_vetores.AssemblyInfoInputs.cache
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula71_ex_vetores\Aula71_ex_vetores\obj\Debug\net6.0\Aula71_ex_vetores.AssemblyInfo.cs
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula71_ex_vetores\Aula71_ex_vetores\obj\Debug\net6.0\Aula71_ex_vetores.csproj.CoreCompileInputs.cache
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula71_ex_vetores\Aula71_ex_vetores\obj\Debug\net6.0\Aula71_ex_vetores.dll
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula71_ex_vetores\Aula71_ex_vetores\obj\Debug\net6.0\refint\Aula71_ex_vetores.dll
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula71_ex_vetores\Aula71_ex_vetores\obj\Debug\net6.0\Aula71_ex_vetores.pdb
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula71_ex_vetores\Aula71_ex_vetores\obj\Debug\net6.0\Aula71_ex_vetores.genruntimeconfig.cache
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula71_ex_vetores\Aula71_ex_vetores\obj\Debug\net6.0\ref\Aula71_ex_vetores.dll

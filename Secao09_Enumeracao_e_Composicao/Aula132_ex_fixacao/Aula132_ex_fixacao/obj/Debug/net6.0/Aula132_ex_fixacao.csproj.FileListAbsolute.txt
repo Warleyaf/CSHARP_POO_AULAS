@@ -1,0 +1,15 @@
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula132_ex_fixacao\Aula132_ex_fixacao\bin\Debug\net6.0\Aula132_ex_fixacao.exe
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula132_ex_fixacao\Aula132_ex_fixacao\bin\Debug\net6.0\Aula132_ex_fixacao.deps.json
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula132_ex_fixacao\Aula132_ex_fixacao\bin\Debug\net6.0\Aula132_ex_fixacao.runtimeconfig.json
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula132_ex_fixacao\Aula132_ex_fixacao\bin\Debug\net6.0\Aula132_ex_fixacao.dll
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula132_ex_fixacao\Aula132_ex_fixacao\bin\Debug\net6.0\Aula132_ex_fixacao.pdb
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula132_ex_fixacao\Aula132_ex_fixacao\obj\Debug\net6.0\Aula132_ex_fixacao.csproj.AssemblyReference.cache
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula132_ex_fixacao\Aula132_ex_fixacao\obj\Debug\net6.0\Aula132_ex_fixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula132_ex_fixacao\Aula132_ex_fixacao\obj\Debug\net6.0\Aula132_ex_fixacao.AssemblyInfoInputs.cache
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula132_ex_fixacao\Aula132_ex_fixacao\obj\Debug\net6.0\Aula132_ex_fixacao.AssemblyInfo.cs
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula132_ex_fixacao\Aula132_ex_fixacao\obj\Debug\net6.0\Aula132_ex_fixacao.csproj.CoreCompileInputs.cache
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula132_ex_fixacao\Aula132_ex_fixacao\obj\Debug\net6.0\Aula132_ex_fixacao.dll
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula132_ex_fixacao\Aula132_ex_fixacao\obj\Debug\net6.0\refint\Aula132_ex_fixacao.dll
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula132_ex_fixacao\Aula132_ex_fixacao\obj\Debug\net6.0\Aula132_ex_fixacao.pdb
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula132_ex_fixacao\Aula132_ex_fixacao\obj\Debug\net6.0\Aula132_ex_fixacao.genruntimeconfig.cache
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula132_ex_fixacao\Aula132_ex_fixacao\obj\Debug\net6.0\ref\Aula132_ex_fixacao.dll

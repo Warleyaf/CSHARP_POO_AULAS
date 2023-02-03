@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aula128_ex_composicao_pt01/1.0.0": {
+        "runtime": {
+          "Aula128_ex_composicao_pt01.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula128_ex_composicao_pt01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

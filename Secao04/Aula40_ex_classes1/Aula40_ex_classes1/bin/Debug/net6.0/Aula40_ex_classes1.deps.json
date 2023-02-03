@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aula40_ex_classes1/1.0.0": {
+        "runtime": {
+          "Aula40_ex_classes1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula40_ex_classes1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

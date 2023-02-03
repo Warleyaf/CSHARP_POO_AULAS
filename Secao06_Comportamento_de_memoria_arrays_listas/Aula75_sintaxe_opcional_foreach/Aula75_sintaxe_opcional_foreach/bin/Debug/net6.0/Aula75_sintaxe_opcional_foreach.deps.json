@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aula75_sintaxe_opcional_foreach/1.0.0": {
+        "runtime": {
+          "Aula75_sintaxe_opcional_foreach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula75_sintaxe_opcional_foreach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

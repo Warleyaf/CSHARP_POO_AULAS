@@ -1,0 +1,15 @@
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula124_Enum\Aula124_Enum\bin\Debug\net6.0\Aula124_Enum.exe
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula124_Enum\Aula124_Enum\bin\Debug\net6.0\Aula124_Enum.deps.json
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula124_Enum\Aula124_Enum\bin\Debug\net6.0\Aula124_Enum.runtimeconfig.json
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula124_Enum\Aula124_Enum\bin\Debug\net6.0\Aula124_Enum.dll
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula124_Enum\Aula124_Enum\bin\Debug\net6.0\Aula124_Enum.pdb
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula124_Enum\Aula124_Enum\obj\Debug\net6.0\Aula124_Enum.csproj.AssemblyReference.cache
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula124_Enum\Aula124_Enum\obj\Debug\net6.0\Aula124_Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula124_Enum\Aula124_Enum\obj\Debug\net6.0\Aula124_Enum.AssemblyInfoInputs.cache
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula124_Enum\Aula124_Enum\obj\Debug\net6.0\Aula124_Enum.AssemblyInfo.cs
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula124_Enum\Aula124_Enum\obj\Debug\net6.0\Aula124_Enum.csproj.CoreCompileInputs.cache
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula124_Enum\Aula124_Enum\obj\Debug\net6.0\Aula124_Enum.dll
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula124_Enum\Aula124_Enum\obj\Debug\net6.0\refint\Aula124_Enum.dll
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula124_Enum\Aula124_Enum\obj\Debug\net6.0\Aula124_Enum.pdb
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula124_Enum\Aula124_Enum\obj\Debug\net6.0\Aula124_Enum.genruntimeconfig.cache
+C:\Users\warle\Documents\C#_POO\Secao06_Comportamento_de_memoria_arrays_listas\Aula124_Enum\Aula124_Enum\obj\Debug\net6.0\ref\Aula124_Enum.dll

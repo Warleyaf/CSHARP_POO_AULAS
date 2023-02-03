@@ -1,0 +1,15 @@
+C:\Users\warle\Documents\C#_POO\Secao04\Aula41_Metodo_Funcao\Aula41_Metodo_Funcao\bin\Debug\net6.0\Aula41_Metodo_Funcao.exe
+C:\Users\warle\Documents\C#_POO\Secao04\Aula41_Metodo_Funcao\Aula41_Metodo_Funcao\bin\Debug\net6.0\Aula41_Metodo_Funcao.deps.json
+C:\Users\warle\Documents\C#_POO\Secao04\Aula41_Metodo_Funcao\Aula41_Metodo_Funcao\bin\Debug\net6.0\Aula41_Metodo_Funcao.runtimeconfig.json
+C:\Users\warle\Documents\C#_POO\Secao04\Aula41_Metodo_Funcao\Aula41_Metodo_Funcao\bin\Debug\net6.0\Aula41_Metodo_Funcao.dll
+C:\Users\warle\Documents\C#_POO\Secao04\Aula41_Metodo_Funcao\Aula41_Metodo_Funcao\bin\Debug\net6.0\Aula41_Metodo_Funcao.pdb
+C:\Users\warle\Documents\C#_POO\Secao04\Aula41_Metodo_Funcao\Aula41_Metodo_Funcao\obj\Debug\net6.0\Aula41_Metodo_Funcao.csproj.AssemblyReference.cache
+C:\Users\warle\Documents\C#_POO\Secao04\Aula41_Metodo_Funcao\Aula41_Metodo_Funcao\obj\Debug\net6.0\Aula41_Metodo_Funcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warle\Documents\C#_POO\Secao04\Aula41_Metodo_Funcao\Aula41_Metodo_Funcao\obj\Debug\net6.0\Aula41_Metodo_Funcao.AssemblyInfoInputs.cache
+C:\Users\warle\Documents\C#_POO\Secao04\Aula41_Metodo_Funcao\Aula41_Metodo_Funcao\obj\Debug\net6.0\Aula41_Metodo_Funcao.AssemblyInfo.cs
+C:\Users\warle\Documents\C#_POO\Secao04\Aula41_Metodo_Funcao\Aula41_Metodo_Funcao\obj\Debug\net6.0\Aula41_Metodo_Funcao.csproj.CoreCompileInputs.cache
+C:\Users\warle\Documents\C#_POO\Secao04\Aula41_Metodo_Funcao\Aula41_Metodo_Funcao\obj\Debug\net6.0\Aula41_Metodo_Funcao.dll
+C:\Users\warle\Documents\C#_POO\Secao04\Aula41_Metodo_Funcao\Aula41_Metodo_Funcao\obj\Debug\net6.0\refint\Aula41_Metodo_Funcao.dll
+C:\Users\warle\Documents\C#_POO\Secao04\Aula41_Metodo_Funcao\Aula41_Metodo_Funcao\obj\Debug\net6.0\Aula41_Metodo_Funcao.pdb
+C:\Users\warle\Documents\C#_POO\Secao04\Aula41_Metodo_Funcao\Aula41_Metodo_Funcao\obj\Debug\net6.0\Aula41_Metodo_Funcao.genruntimeconfig.cache
+C:\Users\warle\Documents\C#_POO\Secao04\Aula41_Metodo_Funcao\Aula41_Metodo_Funcao\obj\Debug\net6.0\ref\Aula41_Metodo_Funcao.dll

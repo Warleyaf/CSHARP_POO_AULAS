@@ -1,0 +1,15 @@
+C:\Users\warle\Documents\C#_POO\Secao04\Aula42_segundo_proble_ex\Aula42_segundo_proble_ex\bin\Debug\net6.0\Aula42_segundo_proble_ex.exe
+C:\Users\warle\Documents\C#_POO\Secao04\Aula42_segundo_proble_ex\Aula42_segundo_proble_ex\bin\Debug\net6.0\Aula42_segundo_proble_ex.deps.json
+C:\Users\warle\Documents\C#_POO\Secao04\Aula42_segundo_proble_ex\Aula42_segundo_proble_ex\bin\Debug\net6.0\Aula42_segundo_proble_ex.runtimeconfig.json
+C:\Users\warle\Documents\C#_POO\Secao04\Aula42_segundo_proble_ex\Aula42_segundo_proble_ex\bin\Debug\net6.0\Aula42_segundo_proble_ex.dll
+C:\Users\warle\Documents\C#_POO\Secao04\Aula42_segundo_proble_ex\Aula42_segundo_proble_ex\bin\Debug\net6.0\Aula42_segundo_proble_ex.pdb
+C:\Users\warle\Documents\C#_POO\Secao04\Aula42_segundo_proble_ex\Aula42_segundo_proble_ex\obj\Debug\net6.0\Aula42_segundo_proble_ex.csproj.AssemblyReference.cache
+C:\Users\warle\Documents\C#_POO\Secao04\Aula42_segundo_proble_ex\Aula42_segundo_proble_ex\obj\Debug\net6.0\Aula42_segundo_proble_ex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warle\Documents\C#_POO\Secao04\Aula42_segundo_proble_ex\Aula42_segundo_proble_ex\obj\Debug\net6.0\Aula42_segundo_proble_ex.AssemblyInfoInputs.cache
+C:\Users\warle\Documents\C#_POO\Secao04\Aula42_segundo_proble_ex\Aula42_segundo_proble_ex\obj\Debug\net6.0\Aula42_segundo_proble_ex.AssemblyInfo.cs
+C:\Users\warle\Documents\C#_POO\Secao04\Aula42_segundo_proble_ex\Aula42_segundo_proble_ex\obj\Debug\net6.0\Aula42_segundo_proble_ex.csproj.CoreCompileInputs.cache
+C:\Users\warle\Documents\C#_POO\Secao04\Aula42_segundo_proble_ex\Aula42_segundo_proble_ex\obj\Debug\net6.0\Aula42_segundo_proble_ex.dll
+C:\Users\warle\Documents\C#_POO\Secao04\Aula42_segundo_proble_ex\Aula42_segundo_proble_ex\obj\Debug\net6.0\refint\Aula42_segundo_proble_ex.dll
+C:\Users\warle\Documents\C#_POO\Secao04\Aula42_segundo_proble_ex\Aula42_segundo_proble_ex\obj\Debug\net6.0\Aula42_segundo_proble_ex.pdb
+C:\Users\warle\Documents\C#_POO\Secao04\Aula42_segundo_proble_ex\Aula42_segundo_proble_ex\obj\Debug\net6.0\Aula42_segundo_proble_ex.genruntimeconfig.cache
+C:\Users\warle\Documents\C#_POO\Secao04\Aula42_segundo_proble_ex\Aula42_segundo_proble_ex\obj\Debug\net6.0\ref\Aula42_segundo_proble_ex.dll

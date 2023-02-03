@@ -1,0 +1,15 @@
+C:\Users\warle\Documents\C#_POO\Secao04\Aula40_ex_classes\Aula40_ex_classes\bin\Debug\net6.0\Aula40_ex_classes.exe
+C:\Users\warle\Documents\C#_POO\Secao04\Aula40_ex_classes\Aula40_ex_classes\bin\Debug\net6.0\Aula40_ex_classes.deps.json
+C:\Users\warle\Documents\C#_POO\Secao04\Aula40_ex_classes\Aula40_ex_classes\bin\Debug\net6.0\Aula40_ex_classes.runtimeconfig.json
+C:\Users\warle\Documents\C#_POO\Secao04\Aula40_ex_classes\Aula40_ex_classes\bin\Debug\net6.0\Aula40_ex_classes.dll
+C:\Users\warle\Documents\C#_POO\Secao04\Aula40_ex_classes\Aula40_ex_classes\bin\Debug\net6.0\Aula40_ex_classes.pdb
+C:\Users\warle\Documents\C#_POO\Secao04\Aula40_ex_classes\Aula40_ex_classes\obj\Debug\net6.0\Aula40_ex_classes.csproj.AssemblyReference.cache
+C:\Users\warle\Documents\C#_POO\Secao04\Aula40_ex_classes\Aula40_ex_classes\obj\Debug\net6.0\Aula40_ex_classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warle\Documents\C#_POO\Secao04\Aula40_ex_classes\Aula40_ex_classes\obj\Debug\net6.0\Aula40_ex_classes.AssemblyInfoInputs.cache
+C:\Users\warle\Documents\C#_POO\Secao04\Aula40_ex_classes\Aula40_ex_classes\obj\Debug\net6.0\Aula40_ex_classes.AssemblyInfo.cs
+C:\Users\warle\Documents\C#_POO\Secao04\Aula40_ex_classes\Aula40_ex_classes\obj\Debug\net6.0\Aula40_ex_classes.csproj.CoreCompileInputs.cache
+C:\Users\warle\Documents\C#_POO\Secao04\Aula40_ex_classes\Aula40_ex_classes\obj\Debug\net6.0\Aula40_ex_classes.dll
+C:\Users\warle\Documents\C#_POO\Secao04\Aula40_ex_classes\Aula40_ex_classes\obj\Debug\net6.0\refint\Aula40_ex_classes.dll
+C:\Users\warle\Documents\C#_POO\Secao04\Aula40_ex_classes\Aula40_ex_classes\obj\Debug\net6.0\Aula40_ex_classes.pdb
+C:\Users\warle\Documents\C#_POO\Secao04\Aula40_ex_classes\Aula40_ex_classes\obj\Debug\net6.0\Aula40_ex_classes.genruntimeconfig.cache
+C:\Users\warle\Documents\C#_POO\Secao04\Aula40_ex_classes\Aula40_ex_classes\obj\Debug\net6.0\ref\Aula40_ex_classes.dll
