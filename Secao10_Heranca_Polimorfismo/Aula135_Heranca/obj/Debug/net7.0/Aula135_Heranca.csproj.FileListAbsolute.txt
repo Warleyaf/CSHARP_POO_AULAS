@@ -1,0 +1,15 @@
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula135_Heranca\obj\Debug\net7.0\Aula135_Heranca.csproj.AssemblyReference.cache
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula135_Heranca\obj\Debug\net7.0\Aula135_Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula135_Heranca\obj\Debug\net7.0\Aula135_Heranca.AssemblyInfoInputs.cache
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula135_Heranca\obj\Debug\net7.0\Aula135_Heranca.AssemblyInfo.cs
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula135_Heranca\obj\Debug\net7.0\Aula135_Heranca.csproj.CoreCompileInputs.cache
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula135_Heranca\bin\Debug\net7.0\Aula135_Heranca.exe
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula135_Heranca\bin\Debug\net7.0\Aula135_Heranca.deps.json
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula135_Heranca\bin\Debug\net7.0\Aula135_Heranca.runtimeconfig.json
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula135_Heranca\bin\Debug\net7.0\Aula135_Heranca.dll
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula135_Heranca\bin\Debug\net7.0\Aula135_Heranca.pdb
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula135_Heranca\obj\Debug\net7.0\Aula135_Heranca.dll
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula135_Heranca\obj\Debug\net7.0\refint\Aula135_Heranca.dll
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula135_Heranca\obj\Debug\net7.0\Aula135_Heranca.pdb
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula135_Heranca\obj\Debug\net7.0\Aula135_Heranca.genruntimeconfig.cache
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula135_Heranca\obj\Debug\net7.0\ref\Aula135_Heranca.dll
