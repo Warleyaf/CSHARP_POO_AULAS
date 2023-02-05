@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33103.184
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula145_metodos_abstratos", "Aula145_metodos_abstratos\Aula145_metodos_abstratos.csproj", "{47C6CA36-90D4-432D-B90F-5D4A9EE5CAE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47C6CA36-90D4-432D-B90F-5D4A9EE5CAE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47C6CA36-90D4-432D-B90F-5D4A9EE5CAE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47C6CA36-90D4-432D-B90F-5D4A9EE5CAE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47C6CA36-90D4-432D-B90F-5D4A9EE5CAE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {071CAE1D-0247-4DBD-B362-99D42D133A95}
+	EndGlobalSection
+EndGlobal

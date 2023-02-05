@@ -1,0 +1,15 @@
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula145_metodos_abstratos\Aula145_metodos_abstratos\bin\Debug\net6.0\Aula145_metodos_abstratos.exe
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula145_metodos_abstratos\Aula145_metodos_abstratos\bin\Debug\net6.0\Aula145_metodos_abstratos.deps.json
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula145_metodos_abstratos\Aula145_metodos_abstratos\bin\Debug\net6.0\Aula145_metodos_abstratos.runtimeconfig.json
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula145_metodos_abstratos\Aula145_metodos_abstratos\bin\Debug\net6.0\Aula145_metodos_abstratos.dll
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula145_metodos_abstratos\Aula145_metodos_abstratos\bin\Debug\net6.0\Aula145_metodos_abstratos.pdb
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula145_metodos_abstratos\Aula145_metodos_abstratos\obj\Debug\net6.0\Aula145_metodos_abstratos.csproj.AssemblyReference.cache
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula145_metodos_abstratos\Aula145_metodos_abstratos\obj\Debug\net6.0\Aula145_metodos_abstratos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula145_metodos_abstratos\Aula145_metodos_abstratos\obj\Debug\net6.0\Aula145_metodos_abstratos.AssemblyInfoInputs.cache
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula145_metodos_abstratos\Aula145_metodos_abstratos\obj\Debug\net6.0\Aula145_metodos_abstratos.AssemblyInfo.cs
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula145_metodos_abstratos\Aula145_metodos_abstratos\obj\Debug\net6.0\Aula145_metodos_abstratos.csproj.CoreCompileInputs.cache
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula145_metodos_abstratos\Aula145_metodos_abstratos\obj\Debug\net6.0\Aula145_metodos_abstratos.dll
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula145_metodos_abstratos\Aula145_metodos_abstratos\obj\Debug\net6.0\refint\Aula145_metodos_abstratos.dll
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula145_metodos_abstratos\Aula145_metodos_abstratos\obj\Debug\net6.0\Aula145_metodos_abstratos.pdb
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula145_metodos_abstratos\Aula145_metodos_abstratos\obj\Debug\net6.0\Aula145_metodos_abstratos.genruntimeconfig.cache
+C:\Users\warle\Documents\C#_POO\Secao10_Heranca_Polimorfismo\Aula145_metodos_abstratos\Aula145_metodos_abstratos\obj\Debug\net6.0\ref\Aula145_metodos_abstratos.dll

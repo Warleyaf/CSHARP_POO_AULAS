@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aula142_ex_proposto_heranca_polimorfismo/1.0.0": {
+        "runtime": {
+          "Aula142_ex_proposto_heranca_polimorfismo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula142_ex_proposto_heranca_polimorfismo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
