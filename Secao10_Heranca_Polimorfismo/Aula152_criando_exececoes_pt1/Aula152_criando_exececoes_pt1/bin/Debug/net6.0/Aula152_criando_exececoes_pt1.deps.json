@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aula152_criando_exececoes_pt1/1.0.0": {
+        "runtime": {
+          "Aula152_criando_exececoes_pt1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula152_criando_exececoes_pt1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
