@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aula197_Bloco_using/1.0.0": {
+        "runtime": {
+          "Aula197_Bloco_using.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula197_Bloco_using/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\warle\Documents\C#_POO\Secao13_Trabalhando_com_arquivos\Aula197_Bloco_using\Aula197_Bloco_using\bin\Debug\net6.0\Aula197_Bloco_using.exe
+C:\Users\warle\Documents\C#_POO\Secao13_Trabalhando_com_arquivos\Aula197_Bloco_using\Aula197_Bloco_using\bin\Debug\net6.0\Aula197_Bloco_using.deps.json
+C:\Users\warle\Documents\C#_POO\Secao13_Trabalhando_com_arquivos\Aula197_Bloco_using\Aula197_Bloco_using\bin\Debug\net6.0\Aula197_Bloco_using.runtimeconfig.json
+C:\Users\warle\Documents\C#_POO\Secao13_Trabalhando_com_arquivos\Aula197_Bloco_using\Aula197_Bloco_using\bin\Debug\net6.0\Aula197_Bloco_using.dll
+C:\Users\warle\Documents\C#_POO\Secao13_Trabalhando_com_arquivos\Aula197_Bloco_using\Aula197_Bloco_using\bin\Debug\net6.0\Aula197_Bloco_using.pdb
+C:\Users\warle\Documents\C#_POO\Secao13_Trabalhando_com_arquivos\Aula197_Bloco_using\Aula197_Bloco_using\obj\Debug\net6.0\Aula197_Bloco_using.csproj.AssemblyReference.cache
+C:\Users\warle\Documents\C#_POO\Secao13_Trabalhando_com_arquivos\Aula197_Bloco_using\Aula197_Bloco_using\obj\Debug\net6.0\Aula197_Bloco_using.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warle\Documents\C#_POO\Secao13_Trabalhando_com_arquivos\Aula197_Bloco_using\Aula197_Bloco_using\obj\Debug\net6.0\Aula197_Bloco_using.AssemblyInfoInputs.cache
+C:\Users\warle\Documents\C#_POO\Secao13_Trabalhando_com_arquivos\Aula197_Bloco_using\Aula197_Bloco_using\obj\Debug\net6.0\Aula197_Bloco_using.AssemblyInfo.cs
+C:\Users\warle\Documents\C#_POO\Secao13_Trabalhando_com_arquivos\Aula197_Bloco_using\Aula197_Bloco_using\obj\Debug\net6.0\Aula197_Bloco_using.csproj.CoreCompileInputs.cache
+C:\Users\warle\Documents\C#_POO\Secao13_Trabalhando_com_arquivos\Aula197_Bloco_using\Aula197_Bloco_using\obj\Debug\net6.0\Aula197_Bloco_using.dll
+C:\Users\warle\Documents\C#_POO\Secao13_Trabalhando_com_arquivos\Aula197_Bloco_using\Aula197_Bloco_using\obj\Debug\net6.0\refint\Aula197_Bloco_using.dll
+C:\Users\warle\Documents\C#_POO\Secao13_Trabalhando_com_arquivos\Aula197_Bloco_using\Aula197_Bloco_using\obj\Debug\net6.0\Aula197_Bloco_using.pdb
+C:\Users\warle\Documents\C#_POO\Secao13_Trabalhando_com_arquivos\Aula197_Bloco_using\Aula197_Bloco_using\obj\Debug\net6.0\Aula197_Bloco_using.genruntimeconfig.cache
+C:\Users\warle\Documents\C#_POO\Secao13_Trabalhando_com_arquivos\Aula197_Bloco_using\Aula197_Bloco_using\obj\Debug\net6.0\ref\Aula197_Bloco_using.dll

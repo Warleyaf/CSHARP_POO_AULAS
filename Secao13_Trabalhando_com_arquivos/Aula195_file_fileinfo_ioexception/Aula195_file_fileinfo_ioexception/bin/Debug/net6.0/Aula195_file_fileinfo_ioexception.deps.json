@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aula195_file_fileinfo_ioexception/1.0.0": {
+        "runtime": {
+          "Aula195_file_fileinfo_ioexception.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula195_file_fileinfo_ioexception/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
