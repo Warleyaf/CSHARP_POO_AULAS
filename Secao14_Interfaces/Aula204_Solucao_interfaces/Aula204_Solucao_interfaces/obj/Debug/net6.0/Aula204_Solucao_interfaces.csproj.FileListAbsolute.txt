@@ -1,0 +1,15 @@
+C:\Users\warle\Documents\C#_POO\Secao14_Interfaces\Aula204_Solucao_interfaces\Aula204_Solucao_interfaces\bin\Debug\net6.0\Aula204_Solucao_interfaces.exe
+C:\Users\warle\Documents\C#_POO\Secao14_Interfaces\Aula204_Solucao_interfaces\Aula204_Solucao_interfaces\bin\Debug\net6.0\Aula204_Solucao_interfaces.deps.json
+C:\Users\warle\Documents\C#_POO\Secao14_Interfaces\Aula204_Solucao_interfaces\Aula204_Solucao_interfaces\bin\Debug\net6.0\Aula204_Solucao_interfaces.runtimeconfig.json
+C:\Users\warle\Documents\C#_POO\Secao14_Interfaces\Aula204_Solucao_interfaces\Aula204_Solucao_interfaces\bin\Debug\net6.0\Aula204_Solucao_interfaces.dll
+C:\Users\warle\Documents\C#_POO\Secao14_Interfaces\Aula204_Solucao_interfaces\Aula204_Solucao_interfaces\bin\Debug\net6.0\Aula204_Solucao_interfaces.pdb
+C:\Users\warle\Documents\C#_POO\Secao14_Interfaces\Aula204_Solucao_interfaces\Aula204_Solucao_interfaces\obj\Debug\net6.0\Aula204_Solucao_interfaces.csproj.AssemblyReference.cache
+C:\Users\warle\Documents\C#_POO\Secao14_Interfaces\Aula204_Solucao_interfaces\Aula204_Solucao_interfaces\obj\Debug\net6.0\Aula204_Solucao_interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\warle\Documents\C#_POO\Secao14_Interfaces\Aula204_Solucao_interfaces\Aula204_Solucao_interfaces\obj\Debug\net6.0\Aula204_Solucao_interfaces.AssemblyInfoInputs.cache
+C:\Users\warle\Documents\C#_POO\Secao14_Interfaces\Aula204_Solucao_interfaces\Aula204_Solucao_interfaces\obj\Debug\net6.0\Aula204_Solucao_interfaces.AssemblyInfo.cs
+C:\Users\warle\Documents\C#_POO\Secao14_Interfaces\Aula204_Solucao_interfaces\Aula204_Solucao_interfaces\obj\Debug\net6.0\Aula204_Solucao_interfaces.csproj.CoreCompileInputs.cache
+C:\Users\warle\Documents\C#_POO\Secao14_Interfaces\Aula204_Solucao_interfaces\Aula204_Solucao_interfaces\obj\Debug\net6.0\Aula204_Solucao_interfaces.dll
+C:\Users\warle\Documents\C#_POO\Secao14_Interfaces\Aula204_Solucao_interfaces\Aula204_Solucao_interfaces\obj\Debug\net6.0\refint\Aula204_Solucao_interfaces.dll
+C:\Users\warle\Documents\C#_POO\Secao14_Interfaces\Aula204_Solucao_interfaces\Aula204_Solucao_interfaces\obj\Debug\net6.0\Aula204_Solucao_interfaces.pdb
+C:\Users\warle\Documents\C#_POO\Secao14_Interfaces\Aula204_Solucao_interfaces\Aula204_Solucao_interfaces\obj\Debug\net6.0\Aula204_Solucao_interfaces.genruntimeconfig.cache
+C:\Users\warle\Documents\C#_POO\Secao14_Interfaces\Aula204_Solucao_interfaces\Aula204_Solucao_interfaces\obj\Debug\net6.0\ref\Aula204_Solucao_interfaces.dll
