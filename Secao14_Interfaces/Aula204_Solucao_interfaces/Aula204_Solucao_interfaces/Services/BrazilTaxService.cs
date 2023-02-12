@@ -1,6 +1,6 @@
 ﻿
 namespace Aula204_Solucao_interfaces.Services {
-    internal class BrazilTaxService {
+    internal class BrazilTaxService : ITaxService {
 
         public double Tax (double amount) {
             if (amount <= 100.0) {

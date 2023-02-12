@@ -25,13 +25,11 @@ namespace MyApp
             CarRental carRental = new CarRental(start, finish, new Vehicle(model));
 
             // Para processar esse aluguel eu vou ter que instanciar um rental service
-            RentalService rentalService = new RentalService(hour, day);
+            RentalService rentalService = new RentalService(hour, day, new BrazilTaxService());
 
             rentalService.ProcessInvoice(carRental); // Isso aqui tem que gerar o meu objeto invoice e associar ele ao meu aluguel que no caso é o "carRental"
             Console.WriteLine("Invoice: ");
             Console.WriteLine(carRental.Invoice);
-
-
         }
     }
 }
