@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Aula208_ex_fixacao/1.0.0": {
+        "runtime": {
+          "Aula208_ex_fixacao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula208_ex_fixacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
