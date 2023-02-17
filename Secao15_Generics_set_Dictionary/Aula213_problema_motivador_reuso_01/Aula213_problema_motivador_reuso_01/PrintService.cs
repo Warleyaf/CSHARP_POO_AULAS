@@ -1,11 +1,11 @@
 ﻿using System;
 
 namespace Aula213_problema_motivador_reuso_01 {
-    internal class PrintService {
-        private int[] _values = new int[10];
+    internal class PrintService<T> {
+        private T[] _values = new T[10];
         private int _count = 0;
 
-        public void AddValue (int value) {
+        public void AddValue (T value) {
             if (_count == 10) { // isso aqui se chama programação defensiva
                 throw new InvalidOperationException("PrintService is Full");
             }
@@ -14,7 +14,7 @@ namespace Aula213_problema_motivador_reuso_01 {
             _count++;
         }
 
-        public int First () {
+        public T First () {
             if (_count == 0) { // isso aqui se chama programação defensiva
                 throw new InvalidOperationException("PrintService is empty");
             }
@@ -28,7 +28,7 @@ namespace Aula213_problema_motivador_reuso_01 {
                 Console.Write(_values[i] + ", ");
             }
             if (_count > 0) {
-                Console.WriteLine(_values[_count - 1]);
+                Console.Write(_values[_count - 1]);
             }
             Console.Write("]");
         }
